@@ -39,5 +39,7 @@
     <orderEntry type="library" name="Maven: org.attoparser:attoparser:2.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: com.oracle.database.jdbc:ojdbc8:21.3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.oracle.ojdbc:orai18n:19.3.0.0" level="project" />
   </component>
 </module>
