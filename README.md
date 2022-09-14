@@ -1,3 +1,3 @@
 # Java_MyApplication
 Hello!
-This is code for some testing of jpa, links to Oracle, api for REST.
+This is code for some testing of jpa, link to Oracle, api for REST.
